@@ -1,14 +1,15 @@
 ---
 title: "Download and Install"
-installer_version: "0.17.9"
 redirect_from: "/install/index.html"
 ---
 
+{% comment %}
 <!--
 NOTE: To update this page with a new binary release, do the following:
-- Update `installer_version` in the YAML front matter above.
-- Update changelog.md with the latest fixes in the release
+- Update `installer_version` in _config.yml under the `defaults` section (towards the bottom of the file).
+- Update changelog.md with the latest fixes in the release.
 -->
+{% endcomment %}
 
 First things first, let's install the Pulumi CLI on your machine.
 

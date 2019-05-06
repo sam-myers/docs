@@ -72,6 +72,8 @@ defaults:
   # By default, use a `default_toc` layout, that shows a table of contents on the left.
   - values:
       layout: default_toc
+      # Update this value when we have a new release.
+      installer_version: "0.17.9"
 
   # Remove the following from the search index.
   -
