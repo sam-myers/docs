@@ -4,6 +4,9 @@ installer_version: "0.17.10"
 aliases:
     - "/install/index.html"
     - "/quickstart/install.html"
+menu:
+  quickstart:
+    weight: 2
 ---
 
 <!--
